@@ -137,7 +137,7 @@ LIMIT은 **출력되는 로우 수를 제한**하고 싶을 때 사용합니다.
 
 
 
-
+![Image](https://github.com/user-attachments/assets/4c364f8b-a8e4-4320-a9f9-145f342c1b49)
 
 
 
