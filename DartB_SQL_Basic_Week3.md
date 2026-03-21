@@ -406,6 +406,7 @@ matches:
 
 # 2️⃣ 학습 인증란
 
+<img width="1657" height="928" alt="image" src="https://github.com/user-attachments/assets/cccd26fe-980b-4715-8bfa-37912c81bddb" />
 
 
 <br><br>
